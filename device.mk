@@ -356,6 +356,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     sensors.dynamic_sensor_hal \
+    sensors.qsh_wrapper \
     sensors.xiaomi.v2
 
 PRODUCT_COPY_FILES += \
