@@ -16,6 +16,24 @@
       "message": "lineage/scripts it?",
       "revId": "e4e9eb7e27bb42cc8af78992177308d11dfbc574",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f7af9f9f_b0d2baf2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 30766
+      },
+      "writtenOn": "2026-08-03T15:24:54Z",
+      "side": 1,
+      "message": "sure, i just didnt expect anyone to be interested in this",
+      "parentUuid": "4e72b613_18bdf27e",
+      "revId": "e4e9eb7e27bb42cc8af78992177308d11dfbc574",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
